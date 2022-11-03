@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+  }
+  
+  
+  .image {
+    background-image :url("./public/logo192.png"),
+   
+    }
+  
+    
